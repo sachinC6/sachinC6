@@ -1,6 +1,13 @@
 # 💫 About Me:
-👯 I’m looking to collaborate on Open-source projects related to IoT, embedded C/C++, MicroPython, smart automation systems, and beginner-to-intermediate electronics applications.<br>🤝 I’m looking for help with VLSI fundamentals, advanced microcontroller concepts, embedded Linux, and optimizing real-world hardware designs for reliability and performance.<br>🌱 I’m currently learning VLSI Design, MicroPython, embedded system architecture, and improving my problem-solving skills through academic and project-based learning.<br>💬 Ask me about IoT systems, sensor-based automation, PCB design tools (EasyEDA, CircuitLab), and electronics project development.<br>⚡ Fun fact I learn fastest by building real hardware and debugging it until it works.
 
+🎓 Electronics Engineering (VLSI) student passionate about embedded systems, IoT, and hands-on problem solving.<br>
+🔌 Drawn to low-level systems, where hardware and software come together to solve real problems.<br>
+💡 Comfortable working with Arduino, ESP32, Raspberry Pi, and embedded programming to turn concepts into functioning systems.<br>
+📊 Currently strengthening my fundamentals in VLSI, embedded architectures, and system design.<br>
+🎥 Outside academics, I follow movies, chess, and technology-focused content.<br>
+📚 Actively building skills through projects, internships, and continuous practice.<br>
+🚀 Focused on growth, consistency, and real-world engineering impact.<br>
+⚡ Fun fact I learn fastest by building real hardware and debugging it until it works.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/HuPaWZvB) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sachin-c-01447a369) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sachin62bpk@gmail.com) 
@@ -22,7 +29,4 @@
 [![](https://visitcount.itsvg.in/api?id=sachinC6&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/sachinC6) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/sachinC6) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/sachinC6) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/sachinC6) [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/sachinc6) 
