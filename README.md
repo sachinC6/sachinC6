@@ -10,7 +10,6 @@
 📊 Currently strengthening my fundamentals in VLSI, embedded architectures, and system design.<br>
 🎥 Outside academics, I follow movies, chess, and technology-focused content.<br>
 📚 Actively building skills through projects, internships, and continuous practice.<br>
-🚀 Focused on growth, consistency, and real-world engineering impact.<br>
 ⚡ Fun fact I learn fastest by building real hardware and debugging it until it works.
 
 ## 🌐 Connect with ME:
