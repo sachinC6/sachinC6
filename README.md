@@ -72,9 +72,6 @@ I'm actively looking for Physical Design roles where I can contribute to silicon
   🧱 Advanced Physical Design 
   🔲 3D-IC & Chiplet Design
   🤖 AI Hardware Architectures
-```
-
-```
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prateekrajput08/prateekrajput08/output/pacman-contribution-graph-dark.svg">
