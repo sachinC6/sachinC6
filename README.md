@@ -7,9 +7,9 @@
 ## 🌐 Connect with ME:
 
 [![Profile Views](https://komarev.com/ghpvc/?username=sachinC6&label=Profile%20Views&color=70a5fd&style=flat-square)](https://github.com/sachinC6)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-kartheesan--k-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sachin-chandra)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sachin-Chandra-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sachin-chandra)
 [![GitHub](https://img.shields.io/badge/GitHub-Sachin-Chandra-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sachinC6)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/sachinc6) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/sachinc6) 
 [![Email](https://img.shields.io/badge/Email-sachin.ec.vlsi23%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sachin.ec.vlsi@gmail.com)
 
 </div>
