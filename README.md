@@ -66,7 +66,7 @@ I'm actively looking for Physical Design roles where I can contribute to silicon
 | B.Tech — Electronics Engineering (VLSI Design & Technology) | Bihar Engineering University Patna (BEU Patna) | 2024 – 2028 | **7.5 / 10.0** in 1st year|
 
 </div>
-```
+
 📐 Currently Exploring & Learning:
   🧱 Advanced Physical Design 
   🔲 3D-IC & Chiplet Design
