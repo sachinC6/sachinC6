@@ -8,7 +8,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=sachinC6&label=Profile%20Views&color=70a5fd&style=flat-square)](https://github.com/sachinC6)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachin-chandra-11b9843a6/)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sachinC6)
+[![GitHub](https://img.shields.io/badge/GitHub-sachinc6-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sachinC6)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/sachinc6) 
 [![Email](https://img.shields.io/badge/Email-sachin.ec.vlsi23%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sachin.ec.vlsi@gmail.com)
 
